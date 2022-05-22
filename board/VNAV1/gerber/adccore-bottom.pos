@@ -1,0 +1,16 @@
+### Module positions - created on 01/12/18 13:30:27 ###
+### Printed by Pcbnew version kicad 4.0.7
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                PosX       PosY       Rot  Side
+C203      470n      SM0603             110.5000   -92.5000  270.0000  bottom
+C205      1u        SM0805             115.5000   -92.7975   90.0000  bottom
+C207      100n      SM0603             110.5000   -98.0000  270.0000  bottom
+C211      470n      SM0603             138.2380   -97.0000    0.0000  bottom
+C213      470n      SM0603             116.6380   -97.2000    0.0000  bottom
+C216      100n      SM0603             132.2500  -101.0000  270.0000  bottom
+C217      100n      SM0603             132.5000   -92.8259   90.0000  bottom
+C218      470n      SM0603             131.0000   -92.8259   90.0000  bottom
+C219      1u        SM0805             131.4525   -98.7500    0.0000  bottom
+C220      1u        SM0805             130.5000  -101.5000   90.0000  bottom
+## End

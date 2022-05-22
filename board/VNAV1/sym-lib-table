@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name "adccore-rescue")(type "Legacy")(uri "${KIPRJMOD}/adccore-rescue.lib")(options "")(descr ""))
+  (lib (name "FPGA_Lattice")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/FPGA_Lattice.kicad_sym")(options "")(descr ""))
+  (lib (name "passives")(type "Legacy")(uri "${CUSTLIB}/Passive/passives.lib")(options "")(descr ""))
+  (lib (name "LTC6363")(type "KiCad")(uri "${CUSTLIB}/Amplifier/AD/LTC6363.kicad_sym")(options "")(descr ""))
+  (lib (name "ADS131M03")(type "KiCad")(uri "${CUSTLIB}/ADC/TI/ADS131M03.kicad_sym")(options "")(descr ""))
+  (lib (name "SI5332")(type "KiCad")(uri "${CUSTLIB}/Oscillator/ClockGen/SI5332.kicad_sym")(options "")(descr ""))
+  (lib (name "tcxo")(type "Legacy")(uri "${CUSTLIB}/Oscillator/TCXO/tcxo.lib")(options "")(descr ""))
+  (lib (name "adf4355")(type "Legacy")(uri "${CUSTLIB}/Transceiver/PLL/adf4355.lib")(options "")(descr ""))
+  (lib (name "adf5355")(type "Legacy")(uri "${CUSTLIB}/Transceiver/PLL/adf5355.lib")(options "")(descr ""))
+)
